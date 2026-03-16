@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <OverrideHtmlAssetPlaceholders>true</OverrideHtmlAssetPlaceholders>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyBlazorApp</RootNamespace>
+    <RootNamespace>MyBlazerApp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
